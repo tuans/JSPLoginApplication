@@ -2,10 +2,10 @@
 A simple JSP Login Application using MySQL as the database
 
 This web application has following features.
-1. User can register and then login to the application.
-2. Users information is maintained in database.
-3. This application supports session management, no JSPs is visible without session. Users can logout anytime from the application.
-4. Hides application and server details to user incase of any exception in application or other common errors like 404.
+* User can register and then login to the application.
+* Users information is maintained in database.
+* This application supports session management, no JSPs is visible without session. Users can logout anytime from the application.
+* Hides application and server details to user incase of any exception in application or other common errors like 404.
 
 This is an eclipse project which can easily copied into your workspace. It can be used a service block for your projects.
 It includes the required library files with relative paths.
